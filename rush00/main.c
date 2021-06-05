@@ -1,8 +1,5 @@
-#include <rush03.h>
-
-int	main()
+int	main(void)
 {
-	rush();
+	rush(5, 5);
 	return (0);
 }
-
