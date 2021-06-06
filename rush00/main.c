@@ -1,5 +1,5 @@
 int	main(void)
 {
-	rush(5, 5);
+	rush(7, 13);
 	return (0);
 }
